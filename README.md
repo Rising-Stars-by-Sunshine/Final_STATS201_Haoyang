@@ -16,7 +16,6 @@ Our raw input variables: The historical time-series data of capital flow from De
 - **Portfolios Data**: Our data set are from [MSCI](https://www.msci.com/). We include close price daily return from 1st May 2017 to 1st May 2020 in the dataset.
 - **Methodology**: 
 The MSCI reports portfolio return spreads (long minus short portfolio returns) in the form of an index for the respective safer investment strategies. In the present study, the continuously compounding gross index returns are computed for the respective indices, i.e. Rt = Ln (Pt / Pt-1) *100. Here, Rt is the daily return, Ln is the logarithmic term, Pt is the current day's index price and Pt-1 is the previous day's index price. The respective indices are re-balanced periodically, such as a monthly basis for the EAFE and defensive portfolios, and quarterly for the ESG portfolio. These index returns have been further used in generating the net pairwise spillover effects.
-
 In the prediction part, use ARIMA model to learn the relationship between historical ESG portfolio return and capital flow to ESG portfolio, then predict the return rate from 2021 to 2022.
 
 - **Expected Results**: 
