@@ -25,23 +25,23 @@ We are expecting a result of high capital flow to ESG portfolio comes with high 
 For the outperformance of the ESG portfolio, a refuge for investors during the pandemic, this project aims to figure out its advantages during the pandemic and predict its return under the new policy of Covid-19 prevention in China. The project will contribute to the application of machine-learning methods in market surveys and investment portfolio return prediction. The study considers capital flowing (spillover effects) into account, and thus it can provide a direction for the pricing and trading algorithms in a real-world implementation.
 
 ## Table of Contents
-- [Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject#data)
-- [Code](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject#code)
-- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject#spotlight)
-- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject#more-about-the-author)
-- [References](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject#references)
+- [Data](https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang#data)
+- [Code](https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang#code)
+- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang#spotlight)
+- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang#more-about-the-author)
+- [References](https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang#references)
 
 ## Data
-|                    |                                                    **Cryptocurrency Data**                                                   |                       **Social Media Data**                      |
+|                    |                                                    **Portfolio Data**                                                   |                       **Capital Flow Data**                      |
 |--------------------|:----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------:|
-| **Data Source**    |                       [Alpha Vantage API](https://www.alphavantage.co/documentation/#digital-currency)                       | [Snscrape API](https://github.com/JustAnotherArchivist/snscrape) |
-| **Queried Data**   |   [Aave_Queried](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/data/Queried_Data)   |                                 -                                |
-| **Processed Data** | [Aave_Processed](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/tree/main/data/Processed_Data) |                                 -                                |
+| **Data Source**    |                       [MSCI](https://www.msci.com/)                       | [Amanjot Singh](https://www.sciencedirect.com/science/article/pii/S1544612320307583#sec0006) |
+| **Queried Data**   |   [Return_Queried](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/data/Queried_Data)   |                                 -                                |
+| **Processed Data** | [Return_Processed](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/tree/main/data/Processed_Data) |                                 -                                |
 
 ## Code
-- [Query Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/code/Aave_data_query.ipynb)
-- [Process Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/code/Aave_data_process.ipynb)
-- [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/code/Aave_data_analyze.ipynb)
+- [Query Data]()
+- [Process Data]()
+- [Analyze Data]()
 
 ## Spotlight
 - **Posters**:
@@ -54,5 +54,5 @@ For the outperformance of the ESG portfolio, a refuge for investors during the p
 <img src="https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/Contribution%20to%20the%20Literature.png" height="500" alt="Contribution to Literature"/><br/>
 ***Figure No.2**. Contribution to the Literature (created by [Whimsical](https://whimsical.com))*
 
-<img src="https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/Spillover17-20.png" height="300" alt="Spillover of portfolios from 2017-2022"/><br/>
+<img src="https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/Spillover17-20.png" height="300" alt="Spillover of portfolios from 2021-2022"/><br/>
 ***Figure No.3**. Spillover of portfolios from 2017-2022. For the defensive strategy, it is 53.6–52.5 = 1.1 percent, for the ESG strategy, it is 59.7–54.1 = 5.6 percent, and for the EAFE strategy, it is 44.3–37.7 = 6.6 percent. In general, the capital flows away from the defensive and ESG portfolios to the EAFE portfolio.
