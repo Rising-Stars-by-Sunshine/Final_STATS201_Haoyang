@@ -54,5 +54,5 @@ For the outperformance of the ESG portfolio, a refuge for investors during the p
 <img src="https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/Contribution%20to%20the%20Literature.png" height="500" alt="Contribution to Literature"/><br/>
 ***Figure No.2**. Contribution to the Literature (created by [Whimsical](https://whimsical.com))*
 
-<img src="https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/Spillover17-21.png" height="300" alt="Spillover of portfolios from 2021-2022"/><br/>
+<img src="https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/Spillover17-20.png" height="300" alt="Spillover of portfolios from 2021-2022"/><br/>
 ***Figure No.3**. Spillover of portfolios from 2021-2022. For the defensive strategy, it is 53.6–52.5 = 1.1 percent, for the ESG strategy, it is 59.7–54.1 = 5.6 percent, and for the EAFE strategy, it is 44.3–37.7 = 6.6 percent. In general, the capital flows away from the defensive and ESG portfolios to the EAFE portfolio.
