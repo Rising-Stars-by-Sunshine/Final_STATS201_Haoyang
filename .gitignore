@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@sunshineluyao 
+Rising-Stars-by-Sunshine
+/
+posters
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+posters/.gitignore
+@sunshineluyao
+sunshineluyao Initial commit
+Latest commit 48fd45b on Nov 7
+ History
+ 1 contributor
+129 lines (105 sloc)  1.76 KB
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +157,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+posters/.gitignore at main · Rising-Stars-by-Sunshine/posters
