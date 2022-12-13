@@ -51,7 +51,8 @@ For the outperformance of the ESG portfolio, a refuge for investors during the p
 
 ## Contribution to the Literature:
 
-<img src="https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/Contribution%20to%20the%20Literature.png" height="500" alt="Contribution to Literature"/><br/>
+![Final_STATS201_Haoyang](./spotlight/Contribution%20to%20the%20Literature.png)
+
 ***Figure No.2**. Contribution to the Literature (created by [Whimsical](https://whimsical.com))*
 
 ## Result:
