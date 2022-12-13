@@ -15,7 +15,8 @@ As the symptom of Covid-19 Omicron is mild, the Chinese government has decided t
 Our raw input variables: The historical time-series data of capital flow from Defense and EAFE portfolios to ESG portfolio, and the historical data of the returns of the three portfolios.
 - **Portfolios Data**: Our data set are from [MSCI](https://www.msci.com/). We include close price daily return from 1st May 2017 to 1st May 2020 in the dataset.
 - **Methodology**: 
-The MSCI reports portfolio return spreads (long minus short portfolio returns) in the form of an index for the respective safer investment strategies. In the present study, the continuously compounding gross index returns are computed for the respective indices, i.e. Rt = Ln (Pt / Pt-1) *100. Here, Rt is the daily return, Ln is the logarithmic term, Pt is the current day's index price and Pt-1 is the previous day's index price. The respective indices are re-balanced periodically, such as a monthly basis for the EAFE and defensive portfolios, and quarterly for the ESG portfolio. These index returns have been further used in generating the net pairwise spillover effects.
+
+The MSCI reports portfolios in the form of an index as safer investment strategies during Covid-19 pandemic. In the present study, the continuously compounding gross index returns are computed for the respective indices, i.e. Rt = Ln (Pt / Pt-1) *100. Here, Rt is the daily return, Ln is the logarithmic term, Pt is the current day's index price and Pt-1 is the previous day's index price. The respective indices are re-balanced periodically, such as a monthly basis for the EAFE and defensive portfolios, and quarterly for the ESG portfolio. These index returns have been further used in generating the net pairwise spillover effects.
 In the prediction part, use ARIMA model to learn the relationship between historical ESG portfolio return and capital flow to ESG portfolio, then predict the return rate from 2021 to 2022.
 
 - **Expected Results**: 
@@ -44,7 +45,8 @@ For the outperformance of the ESG portfolio, a refuge for investors during the p
 ## Spotlight
 - **Posters**:
 
-![poster](https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/Poster.png)
+![Final_STATS201_Haoyang](./spotlight/Poster.png)
+
 ***Figure No.1**. Project Poster (created by [Canva](https://www.canva.com/design/DAFT-dVPBOM/fzR4WbsJPm6xCImV6BYMOA/view?utm_content=DAFT-dVPBOM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))*
 
 ## Contribution to the Literature:
@@ -54,13 +56,16 @@ For the outperformance of the ESG portfolio, a refuge for investors during the p
 
 ## Result:
 
-<img src="https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/Spillover17-20.png" height="300" alt="Spillover of portfolios from 2021-2022"/><br/>
+![Final_STATS201_Haoyang](./spotlight/Spillover17-20.png)
+
 ***Figure No.3**. Spillover of portfolios from 2021-2022. For the defensive strategy, it is 53.6–52.5 = 1.1 percent, for the ESG strategy, it is 59.7–54.1 = 5.6 percent, and for the EAFE strategy, it is 44.3–37.7 = 6.6 percent. In general, the capital flows away from the defensive and ESG portfolios to the EAFE portfolio.*
 
-<img src="https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/distance%20fig.jpeg" height="300" alt="Return Rate distance fig"/><br/>
+![Final_STATS201_Haoyang](./spotlight/distance%20fig.jpeg)
+
 ***Figure No.4**. This figure represents the distance of monthly return rate of EAFE and ESG China portfolio. i.e. The points above x-axis mean that the monthly return rate of EAFE is greater than ESG China, vice versa. The blue line is the predicted distance based on capital flow between ESG China and EAFE. (created by [ARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/))*
 
-<img src="https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/distance%20data.png" height="300" alt="Return Rate distance data"/><br/>
+![Final_STATS201_Haoyang](./spotlight/distance%20data.png)
+
 ***Figure No.5**. In detail, we can see the monthly predicted values are almost positive, that just means the return rate of EAFE is greater than ESG China, which matches the results in figure 3: the capital flows away to EAFE in genenral.*
 
 ## More about the author:
