@@ -47,12 +47,12 @@ For the outperformance of the ESG portfolio, a refuge for investors during the p
 ![poster](https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/Poster.png)
 ***Figure No.1**. Project Poster (created by [Canva](https://www.canva.com/design/DAFT-dVPBOM/fzR4WbsJPm6xCImV6BYMOA/view?utm_content=DAFT-dVPBOM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))*
 
-- **Contribution to the Literature**:
+## Contribution to the Literature:
 
 <img src="https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/Contribution%20to%20the%20Literature.png" height="500" alt="Contribution to Literature"/><br/>
 ***Figure No.2**. Contribution to the Literature (created by [Whimsical](https://whimsical.com))*
 
-- **Result**:
+## Result:
 
 <img src="https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/Spillover17-20.png" height="300" alt="Spillover of portfolios from 2021-2022"/><br/>
 ***Figure No.3**. Spillover of portfolios from 2021-2022. For the defensive strategy, it is 53.6–52.5 = 1.1 percent, for the ESG strategy, it is 59.7–54.1 = 5.6 percent, and for the EAFE strategy, it is 44.3–37.7 = 6.6 percent. In general, the capital flows away from the defensive and ESG portfolios to the EAFE portfolio.*
@@ -63,12 +63,11 @@ For the outperformance of the ESG portfolio, a refuge for investors during the p
 <img src="https://github.com/Rising-Stars-by-Sunshine/Final_STATS201_Haoyang/blob/main/spotlight/distance%20data.png" height="300" alt="Return Rate distance data"/><br/>
 ***Figure No.5**. In detail, we can see the monthly predicted values are almost positive, that just means the return rate of EAFE is greater than ESG China, which matches the results in figure 3: the capital flows away to EAFE in genenral.*
 
-- **More about the author**:
+## More about the author:
 
 Haoyang Yu’s research interests are the development of the trading algorithms, the financial derivatives research and industrial financial research. He is currently the interim executive co-chair of SciEcon AMA. He has also co-authored cryptocurrency’s market circulation-related research articles that are being prepared to submit to world-leading conferences. Besides his experience in SciEcon, he is a junior student at Duke Kunshan University majoring in Applied Mathematics & Computational Sciences. He also has rich working experience in financial industries, such as strategic consulting, management consulting and investment banking, etc. His last position was as a summer intern at PricewaterhouseCoopers during his sophomore-year summer break and he is currently an intern at a top Chinese brokerage (securities) company.
 
-- **Reference**:
-
+## Reference:
 
 Broadstock DC, Chan K, Cheng LTW, Wang X. The role of ESG performance during times of financial crisis: Evidence from COVID-19 in China. Financ Res Lett. 2021 Jan;38:101716.
 
