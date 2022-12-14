@@ -67,7 +67,7 @@ For the outperformance of the ESG portfolio, a refuge for investors during the p
 
 ![Final_STATS201_Haoyang](./spotlight/distance%20data.png)
 
-***Figure No.5**. In detail, we can see the monthly predicted values are almost positive, that just means the return rate of EAFE is greater than ESG China, which matches the results in figure 3: the capital flows away to EAFE in genenral.*
+***Figure No.5**. In detail, we can see the monthly predicted values are almost all positive, that just means the return rate of EAFE is greater than ESG China, which matches the results in figure 3: the capital flows away to EAFE in genenral.*
 
 ## More about the author:
 
