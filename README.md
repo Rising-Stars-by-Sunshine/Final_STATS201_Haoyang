@@ -63,7 +63,7 @@ For the outperformance of the ESG portfolio, a refuge for investors during the p
 
 ![Final_STATS201_Haoyang](./spotlight/distance%20fig.jpeg)
 
-***Figure No.4**. This figure represents the distance of monthly return rate of EAFE and ESG China portfolio. i.e. The points above x-axis mean that the monthly return rate of EAFE is greater than ESG China, vice versa. The blue line is the predicted distance based on capital flow between ESG China and EAFE. (created by [ARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/))*
+***Figure No.4**. This figure represents the distance of monthly return rate of EAFE and ESG China portfolio. i.e. The points with positive value mean that the monthly return rate of EAFE is greater than ESG China, vice versa. The blue line is the predicted distance based on capital flow between ESG China and EAFE. (created by [ARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/))*
 
 ![Final_STATS201_Haoyang](./spotlight/distance%20data.png)
 
